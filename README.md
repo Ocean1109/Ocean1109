@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ocean1109
 - 👀 I’m interested in playing sports and programming
-- 🌱 I’m currently learning hyperledger fabric
+- 🌱 I’m currently learning Cryptography
 - 📫 How to reach me oceanhu@bupt.edu.cn
 
 <!---
